@@ -1,12 +1,10 @@
-# SF_pandas
-SF study materials for Pandas
-
-# My data science projects
+# SF Pandas
+SkillFactory study materials for Pandas
 From the [skillfactory Data Science course](https://skillfactory.ru/data-scientist)
 
-## Study Materials
+## My study projects for Pandas
 
-* [Project 0. Introduction to Pandas](https://github.com/olgavekov/data_science_study/tree/project_0)
+* [Project 0. Introduction to Pandas](https://github.com/olgavekov/SF_pandas/tree/project_0)
 
 * [Project 1. Basic techniques in Pandas](_______)
 * [Project 2. Advanced methods in Pandas](_______)
