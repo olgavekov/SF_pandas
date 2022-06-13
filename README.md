@@ -14,4 +14,5 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Project 4. Data clearing in Pandas](_______)
 * [Project 5. OOP principles and code debugging](_______)
 
+
 # data_science_study
