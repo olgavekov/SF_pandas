@@ -13,7 +13,7 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Project 2. Advanced methods in Pandas](https://github.com/olgavekov/SF_pandas/tree/Project_2)
 * [Project 3. Data visualization in Pandas](https://github.com/olgavekov/SF_pandas/tree/Project_3)
 * [Project 4. Data clearing in Pandas](https://github.com/olgavekov/SF_pandas/tree/Project_4)
-* [Project 5. OOP principles and code debugging](_______)
+* [Project 5. OOP principles and code debugging](https://github.com/olgavekov/SF_pandas/tree/Project_5)
 
 
 # data_science_study
