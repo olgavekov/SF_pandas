@@ -11,10 +11,9 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Project 1. Basic techniques in Pandas](https://github.com/olgavekov/SF_pandas/tree/Project_1)
 * [Project 2. Advanced methods in Pandas](https://github.com/olgavekov/SF_pandas/tree/Project_2)
-* [Project 3. Pivot tables in Pandas](https://github.com/olgavekov/SF_pandas/tree/Project_3)
-* [Project 4. Data visualization in Pandas](_______)
-* [Project 5. Data clearing in Pandas](_______)
-* [Project 6. OOP principles and code debugging](_______)
+* [Project 3. Data visualization in Pandas](https://github.com/olgavekov/SF_pandas/tree/Project_3)
+* [Project 4. Data clearing in Pandas](_______)
+* [Project 5. OOP principles and code debugging](_______)
 
 
 # data_science_study
